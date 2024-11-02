@@ -2,6 +2,7 @@
 
 ## Education
 Bsc. Industrial Physcis- Applied Geo-physics
+
 PGD. Computer Science
 
 ## Work Experience 
