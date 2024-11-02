@@ -5,7 +5,7 @@
 
 - PGD. Computer Science | Babcock University, Ilishan - Remo (2024)
 
-- Bsc. Industrial Physcis- Applied Geo-physics| Covenant University, Ota(2021)
+- Bsc. Industrial Physcis- Applied Geo-physics| Covenant University, Ota (2021)
 
 
 
