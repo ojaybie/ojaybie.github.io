@@ -22,7 +22,8 @@
 
 
 ## Publications
-- A Systematic Review of Generative AI in Education 
+- Nzenwata U. J., Barn-Nzekwe C. L. , Ojelabi E. O, Oduware O., Atalor. P. E., Yisau Y., Adeyela A. T., Nwanguma E. C., Emokiniovo E., Osisanya O.A. A Systematic Review of Generative AI in Education(2024). DOI: 10.12691/jcsa-12-1-4
+- M.E. Emetere, E.O. Ojelabi. Unconventional characterizing techniques for analyzing biodegradable solid state filter(2020). DOI: 10.1016/j.matpr.2020.04.891
 
 ## Certification
 - Google Data Analytics
