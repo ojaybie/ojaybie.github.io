@@ -1,5 +1,5 @@
 # Data Scientist
-**Technical Skills: Python, SQL, MATLAB, Power BI**
+**Technical Skills: Python, SQL, MATLAB, Power BI, Excel , Tableau**
 
 ## Education
 - PG Cert. AI and Data Science |  Loyalist College, Belleville, ON (In -View)
