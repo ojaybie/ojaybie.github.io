@@ -21,7 +21,7 @@
 
 ## Projects
 
-[Analysis of Hotel](Bookings https://www.novypro.com/profile_projects/awesome-analytics?Popup=memberProject&Data=1682149026299x684385868867917400) 
+[Analysis of Hotel Booking](https://www.novypro.com/profile_projects/awesome-analytics?Popup=memberProject&Data=1682149026299x684385868867917400) 
 
 [Analysis on Sales](https://www.novypro.com/profile_projects/awesome-analytics?Popup=memberProject&Data=1682149028636x322616048336688640)
 
