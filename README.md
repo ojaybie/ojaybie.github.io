@@ -2,11 +2,11 @@
 **Technical Skills: Python, SQL, MATLAB, Power BI**
 
 ## Education
-- PG Cert. AI and Data Science | Loyalist College, Belleville, ON (In -View)
+- PG Cert. AI and Data Science |  Loyalist College, Belleville, ON (In -View)
 
-- PGD. Computer Science | Babcock University, Ilishan - Remo (2024)
+- PGD. Computer Science |  Babcock University, Ilishan - Remo (2024)
 
-- Bsc. Industrial Physcis- Applied Geo-physics| Covenant University, Ota (2021)
+- Bsc. Industrial Physcis- Applied Geo-physics |  Covenant University, Ota (2021)
 
 
 
