@@ -22,10 +22,15 @@
 ## Projects
 
 Analysis of Hotel Bookings https://www.novypro.com/profile_projects/awesome-analytics?Popup=memberProject&Data=1682149026299x684385868867917400 
+
 Analysis on Sales
+
 Analysis on House pricing using Multi linear Regression
+
 Analysis on Student Adaptivity on Online Education
+
 EDA on Attritution 
+
 ## Publications
 - Nzenwata U. J., Barn-Nzekwe C. L. , Ojelabi E. O, Oduware O., Atalor. P. E., Yisau Y., Adeyela A. T., Nwanguma E. C., Emokiniovo E., Osisanya O.A. A Systematic Review of Generative AI in Education(2024). DOI: 10.12691/jcsa-12-1-4
   
