@@ -31,7 +31,11 @@
 
 - Data Science Programme - POISE Nigeria
 
--  Google Data Analytics
+- Power BI - Data Analytics Essentials with Power BI - Udemy 
+
+- Google Data Analytics
 
 - Diploma, Leadership Development - African Leadership Development Centre (ALDC)
+
+
  
