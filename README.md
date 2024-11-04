@@ -11,23 +11,26 @@
 
 
 ## Work Experience 
-**Data Analyst @ Terra learning (2023)**
-- Wrangle Data to make it more relevant for visualisation 
-- Model and format data for easy aggregation and comparison using DAX functions 
-- Prepare data in advance to use with forecast characteristics in data visualisation
-- Communicate complex data insights, through visually appealing reports and graphics
-- Troubleshoot issues that may arise using Power BI
-- Publish and schedule Power BI reports to ensure stakeholders have access to most recent information
-- Examine business requirements, and develop data models that satisfy those demands
+**Freelance Data Analyst/ Power BI developer, Awesome Analytics			  (_2023 - present_)**
+- Wrangle Data to make it more relevant for visualisation.
+- Model and format data for easy aggregation and comparison using DAX functions.
+- Prepare data in advance to use with forecast characteristics in data visualisation.
+- Communicate complex data insights, through visually appealing reports and graphics.
 
 
-**Assistant Admnistrative @ Tru CSR (2021 - 2022)**
+**Data Analyst @ Terra learning (_2023_)**
+- Resolved issues within Power BI to maintain report accuracy and functionality.
+- Published and scheduled Power BI reports to provide stakeholders with up-to-date insights.
+- Analyzed business requirements and developed data models tailored to meet specific organizational needs.
+
+
+**Assistant Admnistrative @ Tru CSR (_2021 - 2022_)**
 - Created Key performance indicator and dashboard for reporting weekly activity progress and budget performance using Powerpoint, Canva and MS Excel 
 - Oversaw  all information and implement analytics solutions 
 - Established methods and procedures to convert unprocessed data into relevate data
 
 
-**Project Intern @ LEE Engineering & Construction Co. Ltd (2020)**
+**Project Intern @ LEE Engineering & Construction Co. Ltd (_2020_)**
 - Designed and implemented data collection methods to monitor store activities and performance.
 - Created and analyzed monthly and daily performance reports using advanced Excel techniques, delivering insights for operational improvements.
 - Compiled data to support operational analysis and performance tracking.  
