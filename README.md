@@ -43,7 +43,7 @@
 
 [Analysis on Sales](https://www.novypro.com/profile_projects/awesome-analytics?Popup=memberProject&Data=1682149028636x322616048336688640)
 
-Analysis on House pricing using Multi linear Regression
+[Analysis on House pricing in Nigeria using Multi linear Regression](https://github.com/ojaybie/Lagos-Housing_Pricing/blob/main/README.md)
 
 Analysis on Student Adaptivity on Online Education
 
