@@ -27,7 +27,7 @@
 - Established methods and procedures to convert unprocessed data into relevate data
 
 
-**Project Intern @ Lee Engineering (2020)**
+**Project Intern @ LEE Engineering & Construction Co. Ltd (2020)**
 - Developed and maintained methods of  collecting data of the Store activities  
 - Produced monthly reports utilising advanced Excel 
 - Gathered information to analyse and create performance reports for the operations on a daily basis 
@@ -55,7 +55,9 @@ EDA on Employee's Attritution
 
 - Data Science Programme - POISE Nigeria
 
-- Power BI - Data Analytics Essentials with Power BI - Udemy 
+- Power BI - Data Analytics Essentials with Power BI - Udemy
+
+- SoftSkills - Jobberman  
 
 - Google Data Analytics
 
