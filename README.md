@@ -28,11 +28,11 @@
 
 
 **Project Intern @ LEE Engineering & Construction Co. Ltd (2020)**
-- Developed and maintained methods of  collecting data of the Store activities  
-- Produced monthly reports utilising advanced Excel 
-- Gathered information to analyse and create performance reports for the operations on a daily basis 
-- Supervised  construction projects by leading the team effectively
-- Efficiently estimated the cost of materials using Microsoft Excel 
+- Designed and implemented data collection methods to monitor store activities and performance.
+- Created and analyzed monthly and daily performance reports using advanced Excel techniques, delivering insights for operational improvements.
+- Compiled data to support operational analysis and performance tracking.  
+- Supervised project team on construction initiatives, ensuring timely progress.
+- Conducted cost estimations for materials with high accuracy using Excelxcel 
 
 ## Projects
 
