@@ -45,9 +45,11 @@
 
 [Analysis on House pricing in Nigeria using Multi linear Regression](https://github.com/ojaybie/Lagos-Housing_Pricing/blob/main/README.md)
 
+[Analysis on UK housing price](https://app.powerbi.com/view?r=eyJrIjoiZDQyMWE4M2QtNDhkMC00NWU0LWJiYjgtYzkwYTFiMzUxYTZlIiwidCI6ImM4MGJiOTM2LTU4MjYtNGMzNC04YzIyLWI4OGVmZTVkMTIxYiJ9)
+
 Analysis on Student Adaptivity on Online Education
 
-EDA on Employee's Attritution 
+EDA on Employee Attritution 
 
 ## Publications
 - Nzenwata U. J., Barn-Nzekwe C. L. , Ojelabi E. O, Oduware O., Atalor. P. E., Yisau Y., Adeyela A. T., Nwanguma E. C., Emokiniovo E., Osisanya O.A. A Systematic Review of Generative AI in Education(2024). DOI: 10.12691/jcsa-12-1-4
