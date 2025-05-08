@@ -25,9 +25,9 @@
 
 
 **Assistant Admnistrative @ Okhma Global (_2021 - 2022_)**
-- Created Key performance indicator and dashboard for reporting weekly activity progress and budget performance using Powerpoint, Canva and MS Excel 
-- Oversaw  all information and implement analytics solutions 
-- Established methods and procedures to convert unprocessed data into relevate data
+- Created Key performance indicator and dashboard for reporting weekly activity progress and budget performance using Powerpoint, Canva and MS Excel. 
+- Oversaw  all information and implement analytics solutions. 
+- Established methods and procedures to convert unprocessed data into relevate data.
 
 
 **Project Intern @ LEE Engineering & Construction Co. Ltd (_2020_)**
@@ -35,7 +35,7 @@
 - Created and analyzed monthly and daily performance reports using advanced Excel techniques, delivering insights for operational improvements.
 - Compiled data to support operational analysis and performance tracking.  
 - Supervised project team on construction initiatives, ensuring timely progress.
-- Conducted cost estimations for materials with high accuracy using Excelxcel 
+- Conducted cost estimations for materials with high accuracy using Excel. 
 
 ## Projects
 
