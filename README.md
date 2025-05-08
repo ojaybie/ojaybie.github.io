@@ -11,20 +11,20 @@
 
 
 ## Work Experience 
-**Freelance Data Analyst/ Power BI developer, Awesome Analytics			  (_2023 - present_)**
+**Freelance Data Analyst/ Power BI developer @ Upwork			  (_2023 - 2025_)**
 - Wrangle Data to make it more relevant for visualisation.
 - Model and format data for easy aggregation and comparison using DAX functions.
 - Prepare data in advance to use with forecast characteristics in data visualisation.
 - Communicate complex data insights, through visually appealing reports and graphics.
 
 
-**Data Analyst @ Terra learning (_2023_)**
+**Data Analyst @ Terra learning (_2022 - 2023_)**
 - Resolved issues within Power BI to maintain report accuracy and functionality.
 - Published and scheduled Power BI reports to provide stakeholders with up-to-date insights.
 - Analyzed business requirements and developed data models tailored to meet specific organizational needs.
 
 
-**Assistant Admnistrative @ Tru CSR (_2021 - 2022_)**
+**Assistant Admnistrative @ Okhma Global (_2021 - 2022_)**
 - Created Key performance indicator and dashboard for reporting weekly activity progress and budget performance using Powerpoint, Canva and MS Excel 
 - Oversaw  all information and implement analytics solutions 
 - Established methods and procedures to convert unprocessed data into relevate data
@@ -64,7 +64,7 @@ EDA on Employee Attritution
 
 - SoftSkills - Jobberman  
 
-- Google Data Analytics
+- Google Data Analytics Professional Certificate
 
 - Diploma, Leadership Development - African Leadership Development Centre (ALDC)
 
